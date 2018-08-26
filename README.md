@@ -1,1 +1,1 @@
-# jira-stay-extractor
+# jira-stat-extractor
